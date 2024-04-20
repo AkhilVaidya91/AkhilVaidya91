@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Akhil Vaidya, a sophomore in Computer Engineering with a strong passion for Data Science, Machine Learning, and Data Analytics. I love using code to solve real-world problems and delve into the exciting world of Artificial Intelligence (AI).
+I'm Akhil Vaidya, a sophomore in Computer Engineering with a strong passion for Data Science, Machine Learning, and Data Analytics. I love using code to solve real-world problems and delve into the exciting world of Artificial Intelligence.
 
 ## Skills 🚀
 
@@ -18,6 +18,7 @@ I'm Akhil Vaidya, a sophomore in Computer Engineering with a strong passion for 
 - Pytesseract, MediaPipe (👁️ for computer vision)
 - Optuna, OpenCV (️for optimization and image processing)
 - Deep Learning (for complex AI models) 🧠
+- Streamlit (for ML webpages)
 
 ## Projects 🛠️
 
