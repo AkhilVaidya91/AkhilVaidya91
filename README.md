@@ -59,9 +59,10 @@ I love working on projects that combine **research depth (Transformers, Generati
 
 🎓 **BTech in Computer Engineering** (2022–2026)
 Sardar Patel Institute of Technology (SPIT), Mumbai
-**CGPA:** 9.29
+**CGPA:** 9.39
 
 ---
 
 🌟 *On a mission to create AI systems that bridge research & real-world impact.*
+
 📫 Reach me at: **[akhilvaidya2004@gmail.com](mailto:akhilvaidya2004@gmail.com)**
