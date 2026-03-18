@@ -6,7 +6,7 @@
 
 ---
 
-Final-year Computer Engineering student at SPIT, Mumbai (CGPA: 9.39). I build ML systems across the full stack - from transformer architectures and multimodal retrieval to MLOps pipelines and LLM-powered analytics. My work has been published in **Elsevier's Knowledge-Based Systems**, **IEEE Xplore**, and **Springer**, with research internships at **IIT Patna** and **SPJIMR**.
+Final-year Computer Engineering student. I build ML systems across the full stack - from transformer architectures and multimodal retrieval to MLOps pipelines and LLM-powered analytics. My work has been published in **Elsevier's Knowledge-Based Systems**, **IEEE Xplore**, and **Springer**, with research internships at **IIT Patna** and **SPJIMR**.
 
 ---
 
@@ -84,16 +84,5 @@ Analytics   : PySpark, MLflow, DVC, Optuna, Tableau
 - **Vehicle Fingerprinting via Swin Transformer** - *TIPCE 2025*, Springer (Accepted)
 - **Automated Urban Zone Classification** - *IEEE* [[DOI](https://doi.org/10.1109/ICERECT65215.2025.11379759)]
 - **Traffic Sign Recognition System** - *IEEE Xplore* [[DOI](https://doi.org/10.1109/SSITCON62437.2024.10795884)]
-
----
-
-## Education
-
-**B.Tech. in Computer Engineering** | Nov 2022 - Jun 2026
-Sardar Patel Institute of Technology (SPIT), Mumbai | **CGPA: 9.39**
-
-Teaching Assistant - Deep Learning and DBMS (3 semesters), Department of Computer Engineering, SPIT
-
----
 
 *[akhilvaidya2004@gmail.com](mailto:akhilvaidya2004@gmail.com)*
